@@ -1,7 +1,7 @@
 #!/bin/bash
 # Date Creation: 28/12/2020
 # Server Enviroment: Debian GNU LINUX 9.0 or higher | UBUNTU 16.04 or higher
-# Copyright: Octávio Filipe Gonçalves AKA Subv3rsion
+# Copyright: Octávio Filipe Gonçalves
 # Last Modified: Octávio Filipe Gonçalves AKA Subv3rsion
 # Last Modified Date: 28/12/2020
 ###
